@@ -166,7 +166,7 @@ span.one{
     z-index: -1;
     transition: 0.4s;
 }
-button:hover span{
+button:hover span.one{
     width: 100%;
 }
 .LogsBTN{
